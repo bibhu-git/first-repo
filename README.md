@@ -1,4 +1,4 @@
 # first-repo
 This is my first repository
 <br>
-Author - Bibhu
+Author - Bibhu Ranjan Mohanty
